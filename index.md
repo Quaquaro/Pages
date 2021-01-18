@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Quaquaro/Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Willkommen bei Automate-the-Office
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Ein paar Codeschnipsel
 
-# Header 1
-## Header 2
-### Header 3
+# Überschrift 1
+
+## Überschrift 2
+
+### Überschrift 3 
 
 - Bulleted
 - List
@@ -21,14 +19,14 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Der Fette** und _kursive_ und `der Code` 
 
-[Link](url) and ![Image](src)
+[Link](Wohin auch immer) und ![Image](Bildquelle)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Have Look [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### nen paar Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Quaquaro/Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
